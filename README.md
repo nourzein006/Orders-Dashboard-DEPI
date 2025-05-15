@@ -17,15 +17,6 @@ This repository contains an interactive Orders Analytics Dashboard built with Ta
 * Tableau for Data Visualization
 * Excel/CSV for Data Source
 
-## Setup
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/yourusername/orders-analytics-dashboard.git
-   ```
-2. Open the Tableau workbook (Orders\_Analytics\_Dashboard.twbx) in Tableau Desktop.
-3. Ensure the data source paths are correctly set if using a local dataset.
 
 ## Usage
 
@@ -40,15 +31,7 @@ This repository contains an interactive Orders Analytics Dashboard built with Ta
 * **Consumer Segment leads with 50.56%** of total sales.
 * **January is the least profitable month**, with just \$9,134 in profit.
 
-## Contributing
-
-Feel free to open issues or submit pull requests for improvements.
-
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
-For any inquiries, please reach out via LinkedIn or GitHub.
+For any inquiries, please reach out via LinkedIn www.linkedin.com/in/nour-zein-a682702b8
 
