@@ -17,6 +17,9 @@ This repository contains an interactive Orders Analytics Dashboard built with Ta
 * Tableau for Data Visualization
 * Excel/CSV for Data Source
 
+## The Link
+
+* https://public.tableau.com/views/depitableaudashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Usage
 
