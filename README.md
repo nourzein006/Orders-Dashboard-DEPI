@@ -1,2 +1,54 @@
-# Orders-Dashboard-DEPI
+# Orders Analytics Dashboard
+
+## Description
+
 This repository contains an interactive Orders Analytics Dashboard built with Tableau. The dashboard provides actionable insights into sales performance, profit analysis, and customer segmentation, enabling businesses to make data-driven decisions.
+
+## Key Features
+
+* 📊 **Sales and Profit Analysis:** Track total sales and profit over time, with a clear view of high-performing and low-performing months.
+* 💰 **Top-Performing Categories:** Identify which product categories drive the most revenue, with technology leading the sales.
+* 🛒 **Customer Segment Insights:** Analyze sales distribution across customer segments, with Consumer accounting for over 50% of sales.
+* 📆 **Monthly Performance:** Highlight the most profitable month (December) and the least profitable (January) for better seasonal planning.
+* 🚀 **Interactive Design:** Easily filter data by month, category, and customer segment for deeper insights.
+
+## Technologies Used
+
+* Tableau for Data Visualization
+* Excel/CSV for Data Source
+
+## Setup
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/yourusername/orders-analytics-dashboard.git
+   ```
+2. Open the Tableau workbook (Orders\_Analytics\_Dashboard.twbx) in Tableau Desktop.
+3. Ensure the data source paths are correctly set if using a local dataset.
+
+## Usage
+
+* Explore the interactive dashboard to uncover insights.
+* Use filters to analyze specific segments or time periods.
+* Customize the visualizations as needed.
+
+## Insights
+
+* **December is the most profitable month** with \$43,369 in profit.
+* **Technology is the highest-grossing category**, driving the most sales and profit.
+* **Consumer Segment leads with 50.56%** of total sales.
+* **January is the least profitable month**, with just \$9,134 in profit.
+
+## Contributing
+
+Feel free to open issues or submit pull requests for improvements.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+For any inquiries, please reach out via LinkedIn or GitHub.
+
