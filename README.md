@@ -4,14 +4,6 @@
 
 This repository contains an interactive Orders Analytics Dashboard built with Tableau. The dashboard provides actionable insights into sales performance, profit analysis, and customer segmentation, enabling businesses to make data-driven decisions.
 
-## Key Features
-
-* 📊 **Sales and Profit Analysis:** Track total sales and profit over time, with a clear view of high-performing and low-performing months.
-* 💰 **Top-Performing Categories:** Identify which product categories drive the most revenue, with technology leading the sales.
-* 🛒 **Customer Segment Insights:** Analyze sales distribution across customer segments, with Consumer accounting for over 50% of sales.
-* 📆 **Monthly Performance:** Highlight the most profitable month (December) and the least profitable (January) for better seasonal planning.
-* 🚀 **Interactive Design:** Easily filter data by month, category, and customer segment for deeper insights.
-
 ## Technologies Used
 
 * Tableau for Data Visualization
